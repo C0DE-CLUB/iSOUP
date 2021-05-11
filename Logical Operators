@@ -1,6 +1,0 @@
-(1 == 1) && (2 == 2) 
-(1 == 1) && (2 != 2)
-(1 == 1) || (2 == 2) //
-(1 == 1) || (2 != 2) // returns true as one operand is true, so true OR false returns true
-(1 != 1) || (2 != 2) //returns false as both operands are false, so false OR false returns false
-!(1 == 1) //returns false as 1==1 is true, so NOT true returns false
