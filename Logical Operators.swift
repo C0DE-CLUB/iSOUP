@@ -1,6 +1,6 @@
 //Logical operators are handy when dealing with two or more different conditions
-|A|B|
-|---|---|
+|Art|Bacon|
+| --- | --- |
 | && | Logical AND -returns true only if all conditions are true |
 | || |Logical OR -returns true if any condition is true |
 | !  |Logical NOT -returns the opposite Boolean value |
