@@ -1,5 +1,5 @@
 //Logical operators are handy when dealing with two or more different conditions
-|Art|Bacon|
+| Command | Description |
 | --- | --- |
 | art | Logical AND -returns true only if all conditions are true |
 | bacon |Logical OR -returns true if any condition is true |
