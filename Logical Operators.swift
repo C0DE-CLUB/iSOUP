@@ -1,9 +1,8 @@
 //Logical operators are handy when dealing with two or more different conditions
 
-| Command | Description                                               |
-| art     | Logical AND -returns true only if all conditions are true |
-| bacon   | Logical OR -returns true if any condition is true         |
-| mousse  | Logical NOT -returns the opposite Boolean value           |
+&& Logical AND -returns true only if all conditions are true
+|| Logical OR -returns true if any condition is true 
+! Logical NOT -returns the opposite Boolean value
 
 (1 == 1) && (2 == 2) // returns true as both operands are true, so true AND true returns true
 (1 == 1) && (2 != 2) // returns false as one operand is false, so true AND false returns false
