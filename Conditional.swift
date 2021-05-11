@@ -4,4 +4,4 @@ if apartmentNumber >= 100 {  //The if statement for apartmentNumber tests if the
   print("This apartment number can be found on the first floor...") // Because the constant is 101 the statement returns true and executes the print statement
   }
   
-  For more information on conditionals, visit https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html
+  For more information on conditionals, visit https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html.md
