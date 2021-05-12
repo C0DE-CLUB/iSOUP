@@ -1,6 +1,7 @@
 You can join two strings together using the + operator.
 
-let introduction = "Sic" + "Parvis" + "Magna" 
+let introduction = "Sic " + "Parvis " + "Magna" 
+print(introduction)
 // The values "Sic", "Parvis", and "Magna" are string literals joined together and "Sic Parvis Magna" is diplayed in the results area. 
 
 You can combine strings with constants and variables of other types by casting them as strings.
