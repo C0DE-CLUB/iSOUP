@@ -11,7 +11,7 @@ class Animal { //here the class attached is named Animal.//Convention tells us t
        print(self.sound)
   }
 }
-
+"NEXT"
 let bigCat = Animal()
 print(bigCat.name)
 print(bigCat.sound)
@@ -19,6 +19,7 @@ print(bigCat.numberOfLegs)
 print(bigCat.breathesOxygen)
 bigCat.makeSound() // Since the values are the default values when the class was created 
 
+"NEXT
 let bigCat = Animal() // Here we begin to assign real information to the class, in this case a "Tiger"
 bigCat.name = "Tiger"
 bigCat.sound = "Roar"
@@ -30,6 +31,7 @@ print(bigCat.numberOfLegs)
 print(bigCat.breathesOxygen)
 bigCat.makeSound()
 
+"RESULTS"
 Tiger //When you run the program the following should be printed in text in the debug area for the assigned properties fot its respective class.
 Roar
 4
