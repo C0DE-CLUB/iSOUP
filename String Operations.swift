@@ -1,9 +1,9 @@
-"You can join two strings together using the + operator."
+You can join two strings together using the + operator.
 
 let introduction = "Sic" + "Parvis" + "Magna" 
 // The values "Sic", "Parvis", and "Magna" are string literals joined together and "Sic Parvis Magna" is diplayed in the results area. 
 
-"You can combine strings with constants and variables of other types by casting them as strings."
+You can combine strings with constants and variables of other types by casting them as strings.
 
 let rating = 4.5 // The rating constant contains a value of 4.5, a value of type Double.
 var ratingResult = "The resturant rating is " + String(rating) + " stars" // rating in between the brackets of String() retrieves the value stored in rating
