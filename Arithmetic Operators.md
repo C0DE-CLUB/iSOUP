@@ -1,4 +1,4 @@
-![Order of Operations](https://i.imgur.com/3OXck6b.md)
+![Order of Operations](https://i.imgur.com/3OXck6b.png)
 
 + // A plus sign is used to represent Addition
 - // A hyphen is used to represent Subtraction
