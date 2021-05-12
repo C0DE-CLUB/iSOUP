@@ -3,7 +3,7 @@ You can compare one value to another using comparison operators
 == //Equal to
 != //Not Equal To
 > //Greater than
-< // Less than\
+< // Less than
 >= //Greater than or equal to
 <= //Less than or equal to
 
