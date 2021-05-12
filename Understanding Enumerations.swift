@@ -15,7 +15,7 @@ enum Month { // The keyword for enumeration is enum, for this example we will cr
     case December
     
     var season: String {
-        switch self {
+        switch self { // The switch is checked and matched to a a case, and the code for that case is executed.
             case Month.December, Month.January, Month.February:
                 return "Winter"
             case Month.March, Month.April, Month.May:
