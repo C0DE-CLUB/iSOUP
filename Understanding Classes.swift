@@ -7,7 +7,7 @@ class Animal { //here the class attached is named Animal.//Convention tells us t
   var sound: String = ""
   var numberOfLegs: Int = 0
   var breathesOxygen: Bool = True
-  func makesound() { //prints the noise tit makes to the debug area.
+  func makesound() { //prints the noise the animal makes in the debug area.
        print(self.sound)
   }
 }
